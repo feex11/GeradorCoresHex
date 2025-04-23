@@ -8,3 +8,10 @@ gerarCor = function() {
     document.getElementById("hexColorCode").textContent = cor;
 
 }
+
+copyToClipboard = function(){
+    var cor = document.getElementById("hexColorCode").textContent;
+    navigator.clipboard.writeText(cor);
+}
+
+window.onload = gerarCor;
