@@ -2,6 +2,8 @@
 
 Este é um projeto simples e moderno feito com **HTML, CSS e JavaScript** que gera uma cor hexadecimal aleatória, aplica a cor em uma caixa e permite copiar o valor com um clique.
 
+![Acesso o projeto](https://feex11.github.io/GeradorCoresHex/) >
+
 ## 📸 Preview
 
 ![Preview do Projeto](print-gerador.png) >
